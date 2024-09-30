@@ -32,11 +32,6 @@
 - Employee Management: Add, edit, and delete employees.
 - Permissions: Control user roles and permissions, assigning them according to the tasks they can perform (e.g., librarian, admin, etc.).
 
-# Installation
-- Clone the repository:
-
-- git clone https://github.com/yourusername/library-management-system.git
-- Install necessary dependencies:
 
 
 # Usage
