@@ -41,7 +41,7 @@
 - Reports: Generate reports and export them for further analysis or record-keeping.
 - Settings: Manage branches, employees, and permissions through the settings tab.
 
-#Technologies Used
+# Technologies Used
 - python: open sourece language framework for building the desktop application.
 - pyQt5: used to draw ui with drag and drop .
 - mySql : Used for data storage and management.
