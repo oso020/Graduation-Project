@@ -31,37 +31,84 @@
 - Branch Management: Add and manage library branches.
 - Employee Management: Add, edit, and delete employees.
 - Permissions: Control user roles and permissions, assigning them according to the tasks they can perform (e.g., librarian, admin, etc.).
-Installation
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/library-management-system.git
-Install necessary dependencies:
+# Installation
+- Clone the repository:
 
-bash
-Copy code
-flutter pub get
-Run the application:
+- git clone https://github.com/yourusername/library-management-system.git
+- Install necessary dependencies:
 
-bash
-Copy code
-flutter run
-Usage
-Dashboard: The home screen displays a dashboard with an overview of library activities.
-Books and Students: Use the respective tabs to add, edit, or delete books and students.
-Rentals: Track book rentals and retrieve information on current rentals.
-Reports: Generate reports and export them for further analysis or record-keeping.
-Settings: Manage branches, employees, and permissions through the settings tab.
-Technologies Used
-Flutter: Cross-platform framework for building the desktop application.
-SQLite or Firestore: Used for data storage and management.
-Excel Export: Supports exporting data to .xlsx format using the excel Flutter package.
-Charts: Displays visual statistics using Flutter charting libraries.
-Contribution
-Feel free to submit issues, fork the repository, or make pull requests. All contributions are welcome!
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+# Usage
+- Dashboard: The home screen displays a dashboard with an overview of library activities.
+- Books and Students: Use the respective tabs to add, edit, or delete books and students.
+- Rentals: Track book rentals and retrieve information on current rentals.
+- Reports: Generate reports and export them for further analysis or record-keeping.
+- Settings: Manage branches, employees, and permissions through the settings tab.
 
-This README provides a comprehensive overview of the project, installation instructions, and usage guidelines for your library management desktop app.
+#Technologies Used
+- python: open sourece language framework for building the desktop application.
+- pyQt5: used to draw ui with drag and drop .
+- mySql : Used for data storage and management.
+- Excel Export: Supports exporting data to .xlsx format using the excel python module.
+- Charts: Displays visual statistics using dashpoard charting libraries.
+
+  # screen shots
+  <p align="center">
+  <img src="https://github.com/oso020/Graduation-Project/blob/main/screen%20shots/login.jpg" alt="Sign Up" width="220" style="margin: 10px;"/>
+  <img src="https://github.com/oso020/Graduation-Project/blob/main/screen%20shots/resest.jpg" alt="Sign In" width="220" style="margin: 10px;"/>
+</p>
+
+<p align="center">
+     <img src="https://github.com/oso020/Graduation-Project/blob/main/screen%20shots/today.jpg" alt="Task" width="220" style="margin: 10px;"/>
+
+</p>
+
+<p align="center">
+  <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/done_feature.png" alt="Done Task" width="220" style="margin: 10px;"/>
+    <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/dialog.png" alt="Dialog Dark" width="220" style="margin: 10px;"/>
+       <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/edit_task.png" alt="Edit Task" width="220" style="margin: 10px;"/></p>
+<p align="center">
+     <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/settings.png" alt="Settings" width="220" style="margin: 10px;"/>
+</p>
+
+### Dark Mode
+
+<p align="center">
+  <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/login_dark.png" alt="Sign Up" width="220" style="margin: 10px;"/>
+  <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/register_dark.png" alt="Sign In" width="220" style="margin: 10px;"/>
+        <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/validator_dark.png" alt="Validator dark" width="220" style="margin: 10px;"/>
+
+
+</p>
+<p align="center">
+    
+   
+   <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/added_task%20dark.png" alt="Task" width="220" style="margin: 10px;"/>
+     <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/home_dark.png" alt="Task Add" width="220" style="margin: 10px;"/>
+       <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/delete_feature_dark.png" alt="Task Delete" width="220" style="margin: 10px;"/>
+
+
+
+</p>
+<p align="center">
+  <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/done_feature_dark.png" alt="Done Task" width="220" style="margin: 10px;"/>
+    <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/dialog_dark.png" alt="Dialog Dark" width="220" style="margin: 10px;"/>
+         <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/edit_task_dark.png" alt="Edit Task" width="220" style="margin: 10px;"/>
+
+
+     
+
+</p>
+<p align="center">
+
+   <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/settings_dark.png" alt="Settings" width="220" style="margin: 10px;"/>
+</p>
+
+#Contribution
+- Feel free to submit issues, fork the repository, or make pull requests. All contributions are welcome!
+
+#License
+- This project is licensed under the MIT License - see the LICENSE file for details.
+
+- This README provides a comprehensive overview of the project, installation instructions, and usage guidelines for your library management desktop app.
