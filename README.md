@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-     <img src="https://github.com/oso020/Graduation-Project/blob/main/screen%20shots/today.jpg" alt="Task" width="220" style="margin: 10px;"/>
+     <img src="https://github.com/oso020/Graduation-Project/blob/main/screen%20shots/today.jpg" alt="Task" width="400" style="margin: 10px;"/>
 
 </p>
 
