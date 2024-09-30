@@ -55,55 +55,40 @@
 
   # screen shots
   <p align="center">
-  <img src="https://github.com/oso020/Graduation-Project/blob/main/screen%20shots/login.jpg" alt="Sign Up" width="220" style="margin: 10px;"/>
-  <img src="https://github.com/oso020/Graduation-Project/blob/main/screen%20shots/resest.jpg" alt="Sign In" width="220" style="margin: 10px;"/>
+  <img src="https://github.com/oso020/Graduation-Project/blob/main/screen%20shots/login.jpg" alt="Sign Up" width="350" style="margin: 10px;"/>
+  <img src="https://github.com/oso020/Graduation-Project/blob/main/screen%20shots/resest.jpg" alt="Sign In" width="350" style="margin: 10px;"/>
 </p>
 
 <p align="center">
      <img src="https://github.com/oso020/Graduation-Project/blob/main/screen%20shots/today.jpg" alt="Task" width="700" style="margin: 10px;"/>
-
 </p>
 
 <p align="center">
-  <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/done_feature.png" alt="Done Task" width="220" style="margin: 10px;"/>
-    <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/dialog.png" alt="Dialog Dark" width="220" style="margin: 10px;"/>
-       <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/edit_task.png" alt="Edit Task" width="220" style="margin: 10px;"/></p>
-<p align="center">
-     <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/settings.png" alt="Settings" width="220" style="margin: 10px;"/>
-</p>
-
-### Dark Mode
-
-<p align="center">
-  <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/login_dark.png" alt="Sign Up" width="220" style="margin: 10px;"/>
-  <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/register_dark.png" alt="Sign In" width="220" style="margin: 10px;"/>
-        <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/validator_dark.png" alt="Validator dark" width="220" style="margin: 10px;"/>
-
-
+     <img src="https://github.com/oso020/Graduation-Project/blob/main/screen%20shots/books.jpg" alt="Task" width="700" style="margin: 10px;"/>
+  
 </p>
 <p align="center">
-    
-   
-   <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/added_task%20dark.png" alt="Task" width="220" style="margin: 10px;"/>
-     <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/home_dark.png" alt="Task Add" width="220" style="margin: 10px;"/>
-       <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/delete_feature_dark.png" alt="Task Delete" width="220" style="margin: 10px;"/>
+     <img src="https://github.com/oso020/Graduation-Project/blob/main/screen%20shots/added%20new%20book.jpg" alt="Task" width="700" style="margin: 10px;"/>
+</p>
+
+<p align="center">
+     <img src="https://github.com/oso020/Graduation-Project/blob/main/screen%20shots/edit%20or%20delete%20book.jpg" alt="Task" width="700" style="margin: 10px;"/>
+</p>
 
 
-
+<p align="center">
+     <img src="https://github.com/oso020/Graduation-Project/blob/main/screen%20shots/student.jpg" alt="Task" width="700" style="margin: 10px;"/>
 </p>
 <p align="center">
-  <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/done_feature_dark.png" alt="Done Task" width="220" style="margin: 10px;"/>
-    <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/dialog_dark.png" alt="Dialog Dark" width="220" style="margin: 10px;"/>
-         <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/edit_task_dark.png" alt="Edit Task" width="220" style="margin: 10px;"/>
-
-
-     
-
+     <img src="https://github.com/oso020/Graduation-Project/blob/main/screen%20shots/added%20student.jpeg" alt="Task" width="700" style="margin: 10px;"/>
 </p>
 <p align="center">
-
-   <img src="https://github.com/oso020/TO-DO-APP/blob/development/sceenshots/settings_dark.png" alt="Settings" width="220" style="margin: 10px;"/>
+     <img src="https://github.com/oso020/Graduation-Project/blob/main/screen%20shots/edit%20or%20delete%20student.jpg" alt="Task" width="700" style="margin: 10px;"/>
 </p>
+<p align="center">
+     <img src="https://github.com/oso020/Graduation-Project/blob/main/screen%20shots/edit%20or%20delete%20student.jpg" alt="Task" width="700" style="margin: 10px;"/>
+</p>
+
 
 #Contribution
 - Feel free to submit issues, fork the repository, or make pull requests. All contributions are welcome!
