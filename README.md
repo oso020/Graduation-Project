@@ -86,8 +86,30 @@
      <img src="https://github.com/oso020/Graduation-Project/blob/main/screen%20shots/edit%20or%20delete%20student.jpg" alt="Task" width="700" style="margin: 10px;"/>
 </p>
 <p align="center">
-     <img src="https://github.com/oso020/Graduation-Project/blob/main/screen%20shots/edit%20or%20delete%20student.jpg" alt="Task" width="700" style="margin: 10px;"/>
+     <img src="https://github.com/oso020/Graduation-Project/blob/main/screen%20shots/dashboard.jpg" alt="Task" width="700" style="margin: 10px;"/>
 </p>
+
+
+
+
+
+<p align="center">
+     <img src="https://github.com/oso020/Graduation-Project/blob/main/screen%20shots/history.jpg" alt="Task" width="700" style="margin: 10px;"/>
+</p>
+<p align="center">
+     <img src="https://github.com/oso020/Graduation-Project/blob/main/screen%20shots/report.jpg" alt="Task" width="700" style="margin: 10px;"/>
+</p>
+<p align="center">
+     <img src="https://github.com/oso020/Graduation-Project/blob/main/screen%20shots/added%20data.jpg" alt="Task" width="700" style="margin: 10px;"/>
+</p>
+
+<p align="center">
+     <img src="https://github.com/oso020/Graduation-Project/blob/main/screen%20shots/added%20empolee.jpg" alt="Task" width="700" style="margin: 10px;"/>
+</p>
+<p align="center">
+     <img src="https://github.com/oso020/Graduation-Project/blob/main/screen%20shots/permision.jpg" alt="Task" width="700" style="margin: 10px;"/>
+</p>
+
 
 
 #Contribution
