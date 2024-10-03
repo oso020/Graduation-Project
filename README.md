@@ -1,5 +1,6 @@
-#Library Management System
-#Overview
+# Library Management System
+
+# Overview
 - This Library Management System is a desktop application designed to manage books, students, and library operations efficiently. It allows the management of book rentals, tracking book availability, student management, dashboard reporting, and much more. The - - - 
 - application is user-friendly, with a comprehensive dashboard and multiple utilities such as exporting data to Excel and generating reports.
 
